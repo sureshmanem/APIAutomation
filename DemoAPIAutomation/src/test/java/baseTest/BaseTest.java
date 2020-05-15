@@ -3,6 +3,8 @@ package baseTest;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Listeners;
 
+import com.relevantcodes.extentreports.LogStatus;
+
 import io.restassured.RestAssured;
 import utils.ExtentReportListener;
 import utils.FileAndEnv;
