@@ -1,5 +1,7 @@
 README
 
+RESTAssured API Automation Framework
+
 SETUP
 1. Install Eclipse
 2. Install Maven
